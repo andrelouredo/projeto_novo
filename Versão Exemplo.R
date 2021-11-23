@@ -3,3 +3,6 @@
 mutate()
 filter()
 #alterado
+join()
+select()
+#alterado_2
